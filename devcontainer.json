@@ -1,0 +1,11 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/typescript-node:0-18",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"esbenp.prettier-vscode",
+				"ccjr.emotion-auto-css"
+			]
+		}
+	}
+}
